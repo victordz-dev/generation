@@ -1,0 +1,23 @@
+{
+  "name": "generation",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/victordz-dev/generation#readme",
+  "bugs": {
+    "url": "https://github.com/victordz-dev/generation/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victordz-dev/generation.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
