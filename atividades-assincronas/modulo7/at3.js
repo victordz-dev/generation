@@ -9,7 +9,7 @@ while(num >= 0){
       if(num < 21 && num >= 0){
             menor++;
       }
-      if(num > 50 && num >= 0){
+      if(num > 50){
             maior++;
       }
 }
